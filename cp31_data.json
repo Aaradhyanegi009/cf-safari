@@ -1,0 +1,2531 @@
+{
+  "800": [
+    {
+      "order": 1,
+      "title": "Halloumi Boxes",
+      "contestId": 1903,
+      "index": "A",
+      "code": "1903A",
+      "rating": 800,
+      "url": "/problemset/problem/1903/A"
+    },
+    {
+      "order": 2,
+      "title": "Line Trip",
+      "contestId": 1901,
+      "index": "A",
+      "code": "1901A",
+      "rating": 800,
+      "url": "/problemset/problem/1901/A"
+    },
+    {
+      "order": 3,
+      "title": "Cover in Water",
+      "contestId": 1900,
+      "index": "A",
+      "code": "1900A",
+      "rating": 800,
+      "url": "/problemset/problem/1900/A"
+    },
+    {
+      "order": 4,
+      "title": "Game with Integers",
+      "contestId": 1899,
+      "index": "A",
+      "code": "1899A",
+      "rating": 800,
+      "url": "/problemset/problem/1899/A"
+    },
+    {
+      "order": 5,
+      "title": "Jagged Swaps",
+      "contestId": 1896,
+      "index": "A",
+      "code": "1896A",
+      "rating": 800,
+      "url": "/problemset/problem/1896/A"
+    },
+    {
+      "order": 6,
+      "title": "Doremy's Paint 3",
+      "contestId": 1890,
+      "index": "A",
+      "code": "1890A",
+      "rating": 800,
+      "url": "/problemset/problem/1890/A"
+    },
+    {
+      "order": 7,
+      "title": "Don't Try to Count",
+      "contestId": 1881,
+      "index": "A",
+      "code": "1881A",
+      "rating": 800,
+      "url": "/problemset/problem/1881/A"
+    },
+    {
+      "order": 8,
+      "title": "How Much Does Daytona Cost?",
+      "contestId": 1878,
+      "index": "A",
+      "code": "1878A",
+      "rating": 800,
+      "url": "/problemset/problem/1878/A"
+    },
+    {
+      "order": 9,
+      "title": "Goals of Victory",
+      "contestId": 1877,
+      "index": "A",
+      "code": "1877A",
+      "rating": 800,
+      "url": "/problemset/problem/1877/A"
+    },
+    {
+      "order": 10,
+      "title": "Target Practice",
+      "contestId": 1873,
+      "index": "C",
+      "code": "1873C",
+      "rating": 800,
+      "url": "/problemset/problem/1873/C"
+    },
+    {
+      "order": 11,
+      "title": "Ambitious Kid",
+      "contestId": 1866,
+      "index": "A",
+      "code": "1866A",
+      "rating": 800,
+      "url": "/problemset/problem/1866/A"
+    },
+    {
+      "order": 12,
+      "title": "Sequence Game",
+      "contestId": 1862,
+      "index": "B",
+      "code": "1862B",
+      "rating": 800,
+      "url": "/problemset/problem/1862/B"
+    },
+    {
+      "order": 13,
+      "title": "United We Stand",
+      "contestId": 1859,
+      "index": "A",
+      "code": "1859A",
+      "rating": 800,
+      "url": "/problemset/problem/1859/A"
+    },
+    {
+      "order": 14,
+      "title": "Buttons",
+      "contestId": 268,
+      "index": "B",
+      "code": "268B",
+      "rating": 1000,
+      "url": "/problemset/problem/268/B"
+    },
+    {
+      "order": 15,
+      "title": "Array Coloring",
+      "contestId": 1857,
+      "index": "A",
+      "code": "1857A",
+      "rating": 800,
+      "url": "/problemset/problem/1857/A"
+    },
+    {
+      "order": 16,
+      "title": "Desorting",
+      "contestId": 1853,
+      "index": "A",
+      "code": "1853A",
+      "rating": 800,
+      "url": "/problemset/problem/1853/A"
+    },
+    {
+      "order": 17,
+      "title": "Forbidden Integer",
+      "contestId": 1845,
+      "index": "A",
+      "code": "1845A",
+      "rating": 800,
+      "url": "/problemset/problem/1845/A"
+    },
+    {
+      "order": 18,
+      "title": "Grasshopper on a Line",
+      "contestId": 1837,
+      "index": "A",
+      "code": "1837A",
+      "rating": 800,
+      "url": "/problemset/problem/1837/A"
+    },
+    {
+      "order": 19,
+      "title": "Unit Array",
+      "contestId": 1834,
+      "index": "A",
+      "code": "1834A",
+      "rating": 800,
+      "url": "/problemset/problem/1834/A"
+    },
+    {
+      "order": 20,
+      "title": "Twin Permutations",
+      "contestId": 1831,
+      "index": "A",
+      "code": "1831A",
+      "rating": 800,
+      "url": "/problemset/problem/1831/A"
+    },
+    {
+      "order": 21,
+      "title": "Blank Space",
+      "contestId": 1829,
+      "index": "B",
+      "code": "1829B",
+      "rating": 800,
+      "url": "/problemset/problem/1829/B"
+    },
+    {
+      "order": 22,
+      "title": "Coins",
+      "contestId": 47,
+      "index": "B",
+      "code": "47B",
+      "rating": 1200,
+      "url": "/problemset/problem/47/B"
+    },
+    {
+      "order": 23,
+      "title": "Walking Master",
+      "contestId": 1806,
+      "index": "A",
+      "code": "1806A",
+      "rating": 800,
+      "url": "/problemset/problem/1806/A"
+    },
+    {
+      "order": 24,
+      "title": "We Need the Zero",
+      "contestId": 1805,
+      "index": "A",
+      "code": "1805A",
+      "rating": 800,
+      "url": "/problemset/problem/1805/A"
+    },
+    {
+      "order": 25,
+      "title": "Prepend and Append",
+      "contestId": 1791,
+      "index": "C",
+      "code": "1791C",
+      "rating": 800,
+      "url": "/problemset/problem/1791/C"
+    },
+    {
+      "order": 26,
+      "title": "Serval and Mocha's Array",
+      "contestId": 1789,
+      "index": "A",
+      "code": "1789A",
+      "rating": 800,
+      "url": "/problemset/problem/1789/A"
+    },
+    {
+      "order": 27,
+      "title": "One and Two",
+      "contestId": 1788,
+      "index": "A",
+      "code": "1788A",
+      "rating": 800,
+      "url": "/problemset/problem/1788/A"
+    },
+    {
+      "order": 28,
+      "title": "Make it Beautiful",
+      "contestId": 1783,
+      "index": "A",
+      "code": "1783A",
+      "rating": 800,
+      "url": "/problemset/problem/1783/A"
+    },
+    {
+      "order": 29,
+      "title": "Everybody Likes Good Arrays!",
+      "contestId": 1777,
+      "index": "A",
+      "code": "1777A",
+      "rating": 800,
+      "url": "/problemset/problem/1777/A"
+    },
+    {
+      "order": 30,
+      "title": "Extremely Round",
+      "contestId": 1766,
+      "index": "A",
+      "code": "1766A",
+      "rating": 800,
+      "url": "/problemset/problem/1766/A"
+    },
+    {
+      "order": 31,
+      "title": "Two Permutations",
+      "contestId": 213,
+      "index": "E",
+      "code": "213E",
+      "rating": 2700,
+      "url": "/problemset/problem/213/E"
+    }
+  ],
+  "900": [
+    {
+      "order": 1,
+      "title": "Forked!",
+      "contestId": 1904,
+      "index": "A",
+      "code": "1904A",
+      "rating": 900,
+      "url": "/problemset/problem/1904/A"
+    },
+    {
+      "order": 2,
+      "title": "Chemistry",
+      "contestId": 1883,
+      "index": "B",
+      "code": "1883B",
+      "rating": 900,
+      "url": "/problemset/problem/1883/B"
+    },
+    {
+      "order": 3,
+      "title": "Vasilije in Cacak",
+      "contestId": 1878,
+      "index": "C",
+      "code": "1878C",
+      "rating": 900,
+      "url": "/problemset/problem/1878/C"
+    },
+    {
+      "order": 4,
+      "title": "Jellyfish and Undertale",
+      "contestId": 1875,
+      "index": "A",
+      "code": "1875A",
+      "rating": 900,
+      "url": "/problemset/problem/1875/A"
+    },
+    {
+      "order": 5,
+      "title": "Make It Zero",
+      "contestId": 1869,
+      "index": "A",
+      "code": "1869A",
+      "rating": 900,
+      "url": "/problemset/problem/1869/A"
+    },
+    {
+      "order": 6,
+      "title": "Longest Divisors Interval",
+      "contestId": 1855,
+      "index": "B",
+      "code": "1855B",
+      "rating": 900,
+      "url": "/problemset/problem/1855/B"
+    },
+    {
+      "order": 7,
+      "title": "Balanced Round",
+      "contestId": 1850,
+      "index": "D",
+      "code": "1850D",
+      "rating": 900,
+      "url": "/problemset/problem/1850/D"
+    },
+    {
+      "order": 8,
+      "title": "Comparison String",
+      "contestId": 1837,
+      "index": "B",
+      "code": "1837B",
+      "rating": 900,
+      "url": "/problemset/problem/1837/B"
+    },
+    {
+      "order": 9,
+      "title": "Permutation Swap",
+      "contestId": 1828,
+      "index": "B",
+      "code": "1828B",
+      "rating": 900,
+      "url": "/problemset/problem/1828/B"
+    },
+    {
+      "order": 10,
+      "title": "Odd Queries",
+      "contestId": 1807,
+      "index": "D",
+      "code": "1807D",
+      "rating": 900,
+      "url": "/problemset/problem/1807/D"
+    },
+    {
+      "order": 11,
+      "title": "Not Dividing",
+      "contestId": 1794,
+      "index": "B",
+      "code": "1794B",
+      "rating": 900,
+      "url": "/problemset/problem/1794/B"
+    },
+    {
+      "order": 12,
+      "title": "Mainak and Array",
+      "contestId": 1726,
+      "index": "A",
+      "code": "1726A",
+      "rating": 900,
+      "url": "/problemset/problem/1726/A"
+    },
+    {
+      "order": 13,
+      "title": "NIT Destroys the Universe",
+      "contestId": 1696,
+      "index": "B",
+      "code": "1696B",
+      "rating": 900,
+      "url": "/problemset/problem/1696/B"
+    },
+    {
+      "order": 14,
+      "title": "AvtoBus",
+      "contestId": 1679,
+      "index": "A",
+      "code": "1679A",
+      "rating": 900,
+      "url": "/problemset/problem/1679/A"
+    },
+    {
+      "order": 15,
+      "title": "Make It Increasing",
+      "contestId": 1437,
+      "index": "E",
+      "code": "1437E",
+      "rating": 2200,
+      "url": "/problemset/problem/1437/E"
+    },
+    {
+      "order": 16,
+      "title": "Deletive Editing",
+      "contestId": 1666,
+      "index": "D",
+      "code": "1666D",
+      "rating": 900,
+      "url": "/problemset/problem/1666/D"
+    },
+    {
+      "order": 17,
+      "title": "Array Cloning Technique",
+      "contestId": 1665,
+      "index": "B",
+      "code": "1665B",
+      "rating": 900,
+      "url": "/problemset/problem/1665/B"
+    },
+    {
+      "order": 18,
+      "title": "Make AP",
+      "contestId": 1624,
+      "index": "B",
+      "code": "1624B",
+      "rating": 900,
+      "url": "/problemset/problem/1624/B"
+    },
+    {
+      "order": 19,
+      "title": "Odd Grasshopper",
+      "contestId": 1607,
+      "index": "B",
+      "code": "1607B",
+      "rating": 900,
+      "url": "/problemset/problem/1607/B"
+    },
+    {
+      "order": 20,
+      "title": "AB Balance",
+      "contestId": 1606,
+      "index": "A",
+      "code": "1606A",
+      "rating": 900,
+      "url": "/problemset/problem/1606/A"
+    },
+    {
+      "order": 21,
+      "title": "Make it Divisible by 25",
+      "contestId": 1593,
+      "index": "B",
+      "code": "1593B",
+      "rating": 900,
+      "url": "/problemset/problem/1593/B"
+    },
+    {
+      "order": 22,
+      "title": "Luntik and Subsequences",
+      "contestId": 1582,
+      "index": "B",
+      "code": "1582B",
+      "rating": 900,
+      "url": "/problemset/problem/1582/B"
+    },
+    {
+      "order": 23,
+      "title": "Mocha and Math",
+      "contestId": 1559,
+      "index": "A",
+      "code": "1559A",
+      "rating": 900,
+      "url": "/problemset/problem/1559/A"
+    },
+    {
+      "order": 24,
+      "title": "Exciting Bets",
+      "contestId": 1543,
+      "index": "A",
+      "code": "1543A",
+      "rating": 900,
+      "url": "/problemset/problem/1543/A"
+    },
+    {
+      "order": 25,
+      "title": "Bad Boy",
+      "contestId": 1537,
+      "index": "B",
+      "code": "1537B",
+      "rating": 900,
+      "url": "/problemset/problem/1537/B"
+    },
+    {
+      "order": 26,
+      "title": "Odd Divisor",
+      "contestId": 1475,
+      "index": "A",
+      "code": "1475A",
+      "rating": 900,
+      "url": "/problemset/problem/1475/A"
+    },
+    {
+      "order": 27,
+      "title": "Strange Partition",
+      "contestId": 1471,
+      "index": "A",
+      "code": "1471A",
+      "rating": 900,
+      "url": "/problemset/problem/1471/A"
+    },
+    {
+      "order": 28,
+      "title": "Sum of Medians",
+      "contestId": 85,
+      "index": "D",
+      "code": "85D",
+      "rating": 2300,
+      "url": "/problemset/problem/85/D"
+    },
+    {
+      "order": 29,
+      "title": "Three Indices",
+      "contestId": 1380,
+      "index": "A",
+      "code": "1380A",
+      "rating": 900,
+      "url": "/problemset/problem/1380/A"
+    },
+    {
+      "order": 30,
+      "title": "01 Game",
+      "contestId": 1373,
+      "index": "B",
+      "code": "1373B",
+      "rating": 900,
+      "url": "/problemset/problem/1373/B"
+    },
+    {
+      "order": 31,
+      "title": "Multiply by 2, divide by 6",
+      "contestId": 1374,
+      "index": "B",
+      "code": "1374B",
+      "rating": 900,
+      "url": "/problemset/problem/1374/B"
+    }
+  ],
+  "1000": [
+    {
+      "order": 1,
+      "title": "Swap and Delete",
+      "contestId": 1913,
+      "index": "B",
+      "code": "1913B",
+      "rating": 1000,
+      "url": "/problemset/problem/1913/B"
+    },
+    {
+      "order": 2,
+      "title": "Raspberries",
+      "contestId": 1883,
+      "index": "C",
+      "code": "1883C",
+      "rating": 1000,
+      "url": "/problemset/problem/1883/C"
+    },
+    {
+      "order": 3,
+      "title": "Helmets in Night Light",
+      "contestId": 1876,
+      "index": "A",
+      "code": "1876A",
+      "rating": 1000,
+      "url": "/problemset/problem/1876/A"
+    },
+    {
+      "order": 4,
+      "title": "Olya and Game with Arrays",
+      "contestId": 1859,
+      "index": "B",
+      "code": "1859B",
+      "rating": 1000,
+      "url": "/problemset/problem/1859/B"
+    },
+    {
+      "order": 5,
+      "title": "Monsters",
+      "contestId": 1810,
+      "index": "E",
+      "code": "1810E",
+      "rating": 2100,
+      "url": "/problemset/problem/1810/E"
+    },
+    {
+      "order": 6,
+      "title": "Ski Resort",
+      "contestId": 1840,
+      "index": "C",
+      "code": "1840C",
+      "rating": 1000,
+      "url": "/problemset/problem/1840/C"
+    },
+    {
+      "order": 7,
+      "title": "Array merging",
+      "contestId": 1831,
+      "index": "B",
+      "code": "1831B",
+      "rating": 1000,
+      "url": "/problemset/problem/1831/B"
+    },
+    {
+      "order": 8,
+      "title": "Distinct Split",
+      "contestId": 1791,
+      "index": "D",
+      "code": "1791D",
+      "rating": 1000,
+      "url": "/problemset/problem/1791/D"
+    },
+    {
+      "order": 9,
+      "title": "Minimum LCM",
+      "contestId": 1765,
+      "index": "M",
+      "code": "1765M",
+      "rating": 1000,
+      "url": "/problemset/problem/1765/M"
+    },
+    {
+      "order": 10,
+      "title": "Traffic Light",
+      "contestId": 1744,
+      "index": "C",
+      "code": "1744C",
+      "rating": 1000,
+      "url": "/problemset/problem/1744/C"
+    },
+    {
+      "order": 11,
+      "title": "Basketball Together",
+      "contestId": 1725,
+      "index": "B",
+      "code": "1725B",
+      "rating": 1000,
+      "url": "/problemset/problem/1725/B"
+    },
+    {
+      "order": 12,
+      "title": "Beautiful Array",
+      "contestId": 1155,
+      "index": "D",
+      "code": "1155D",
+      "rating": 1900,
+      "url": "/problemset/problem/1155/D"
+    },
+    {
+      "order": 13,
+      "title": "Luke is a Foodie",
+      "contestId": 1704,
+      "index": "B",
+      "code": "1704B",
+      "rating": 1000,
+      "url": "/problemset/problem/1704/B"
+    },
+    {
+      "order": 14,
+      "title": "Shoe Shuffling",
+      "contestId": 1691,
+      "index": "B",
+      "code": "1691B",
+      "rating": 1000,
+      "url": "/problemset/problem/1691/B"
+    },
+    {
+      "order": 15,
+      "title": "Black and White Stripe",
+      "contestId": 1690,
+      "index": "D",
+      "code": "1690D",
+      "rating": 1000,
+      "url": "/problemset/problem/1690/D"
+    },
+    {
+      "order": 16,
+      "title": "Red Versus Blue",
+      "contestId": 1659,
+      "index": "A",
+      "code": "1659A",
+      "rating": 1000,
+      "url": "/problemset/problem/1659/A"
+    },
+    {
+      "order": 17,
+      "title": "Roof Construction",
+      "contestId": 1632,
+      "index": "B",
+      "code": "1632B",
+      "rating": 1000,
+      "url": "/problemset/problem/1632/B"
+    },
+    {
+      "order": 18,
+      "title": "Triangles on a Rectangle",
+      "contestId": 1620,
+      "index": "B",
+      "code": "1620B",
+      "rating": 1000,
+      "url": "/problemset/problem/1620/B"
+    },
+    {
+      "order": 19,
+      "title": "Divan and a New Project ",
+      "contestId": 1614,
+      "index": "B",
+      "code": "1614B",
+      "rating": 1000,
+      "url": "/problemset/problem/1614/B"
+    },
+    {
+      "order": 20,
+      "title": "MEXor Mixup",
+      "contestId": 1567,
+      "index": "B",
+      "code": "1567B",
+      "rating": 1000,
+      "url": "/problemset/problem/1567/B"
+    },
+    {
+      "order": 21,
+      "title": "Double-ended Strings",
+      "contestId": 1506,
+      "index": "C",
+      "code": "1506C",
+      "rating": 1000,
+      "url": "/problemset/problem/1506/C"
+    },
+    {
+      "order": 22,
+      "title": "Add and Divide",
+      "contestId": 1485,
+      "index": "A",
+      "code": "1485A",
+      "rating": 1000,
+      "url": "/problemset/problem/1485/A"
+    },
+    {
+      "order": 23,
+      "title": "Different Divisors",
+      "contestId": 1474,
+      "index": "B",
+      "code": "1474B",
+      "rating": 1000,
+      "url": "/problemset/problem/1474/B"
+    },
+    {
+      "order": 24,
+      "title": "Numbers Box",
+      "contestId": 1447,
+      "index": "B",
+      "code": "1447B",
+      "rating": 1000,
+      "url": "/problemset/problem/1447/B"
+    },
+    {
+      "order": 25,
+      "title": "Valerii Against Everyone",
+      "contestId": 1438,
+      "index": "B",
+      "code": "1438B",
+      "rating": 1000,
+      "url": "/problemset/problem/1438/B"
+    },
+    {
+      "order": 26,
+      "title": "Buying Torches",
+      "contestId": 1418,
+      "index": "A",
+      "code": "1418A",
+      "rating": 1000,
+      "url": "/problemset/problem/1418/A"
+    },
+    {
+      "order": 27,
+      "title": "Fair Numbers",
+      "contestId": 1411,
+      "index": "B",
+      "code": "1411B",
+      "rating": 1000,
+      "url": "/problemset/problem/1411/B"
+    },
+    {
+      "order": 28,
+      "title": "Move Brackets",
+      "contestId": 1374,
+      "index": "C",
+      "code": "1374C",
+      "rating": 1000,
+      "url": "/problemset/problem/1374/C"
+    },
+    {
+      "order": 29,
+      "title": "Johnny and Ancient Computer",
+      "contestId": 1362,
+      "index": "A",
+      "code": "1362A",
+      "rating": 1000,
+      "url": "/problemset/problem/1362/A"
+    },
+    {
+      "order": 30,
+      "title": "Bogosort",
+      "contestId": 1312,
+      "index": "B",
+      "code": "1312B",
+      "rating": 1000,
+      "url": "/problemset/problem/1312/B"
+    },
+    {
+      "order": 31,
+      "title": "Reverse a Substring",
+      "contestId": 1155,
+      "index": "A",
+      "code": "1155A",
+      "rating": 1000,
+      "url": "/problemset/problem/1155/A"
+    }
+  ],
+  "1100": [
+    {
+      "order": 1,
+      "title": "Erase First or Second Letter",
+      "contestId": 1917,
+      "index": "B",
+      "code": "1917B",
+      "rating": 1100,
+      "url": "/problemset/problem/1917/B"
+    },
+    {
+      "order": 2,
+      "title": "Quests",
+      "contestId": 1760,
+      "index": "F",
+      "code": "1760F",
+      "rating": 1500,
+      "url": "/problemset/problem/1760/F"
+    },
+    {
+      "order": 3,
+      "title": "Collecting Game",
+      "contestId": 1904,
+      "index": "B",
+      "code": "1904B",
+      "rating": 1100,
+      "url": "/problemset/problem/1904/B"
+    },
+    {
+      "order": 4,
+      "title": "Yarik and Array",
+      "contestId": 1899,
+      "index": "C",
+      "code": "1899C",
+      "rating": 1100,
+      "url": "/problemset/problem/1899/C"
+    },
+    {
+      "order": 5,
+      "title": "250 Thousand Tons of TNT",
+      "contestId": 1899,
+      "index": "B",
+      "code": "1899B",
+      "rating": 1100,
+      "url": "/problemset/problem/1899/B"
+    },
+    {
+      "order": 6,
+      "title": "Deja Vu",
+      "contestId": 331,
+      "index": "E1",
+      "code": "331E1",
+      "rating": 2900,
+      "url": "/problemset/problem/331/E1"
+    },
+    {
+      "order": 7,
+      "title": "Building an Aquarium",
+      "contestId": 1873,
+      "index": "E",
+      "code": "1873E",
+      "rating": 1100,
+      "url": "/problemset/problem/1873/E"
+    },
+    {
+      "order": 8,
+      "title": "2D Traveling",
+      "contestId": 1869,
+      "index": "B",
+      "code": "1869B",
+      "rating": 1100,
+      "url": "/problemset/problem/1869/B"
+    },
+    {
+      "order": 9,
+      "title": "Cardboard for Pictures",
+      "contestId": 1850,
+      "index": "E",
+      "code": "1850E",
+      "rating": 1100,
+      "url": "/problemset/problem/1850/E"
+    },
+    {
+      "order": 10,
+      "title": "Tenzing and Books",
+      "contestId": 1842,
+      "index": "B",
+      "code": "1842B",
+      "rating": 1100,
+      "url": "/problemset/problem/1842/B"
+    },
+    {
+      "order": 11,
+      "title": "Maximum Sum",
+      "contestId": 1832,
+      "index": "B",
+      "code": "1832B",
+      "rating": 1100,
+      "url": "/problemset/problem/1832/B"
+    },
+    {
+      "order": 12,
+      "title": "Counting Orders",
+      "contestId": 1827,
+      "index": "A",
+      "code": "1827A",
+      "rating": 1100,
+      "url": "/problemset/problem/1827/A"
+    },
+    {
+      "order": 13,
+      "title": "Lunatic Never Content",
+      "contestId": 1826,
+      "index": "B",
+      "code": "1826B",
+      "rating": 1100,
+      "url": "/problemset/problem/1826/B"
+    },
+    {
+      "order": 14,
+      "title": "Sort the Subarray",
+      "contestId": 1821,
+      "index": "B",
+      "code": "1821B",
+      "rating": 1100,
+      "url": "/problemset/problem/1821/B"
+    },
+    {
+      "order": 15,
+      "title": "JoJo's Incredible Adventures",
+      "contestId": 1820,
+      "index": "B",
+      "code": "1820B",
+      "rating": 1100,
+      "url": "/problemset/problem/1820/B"
+    },
+    {
+      "order": 16,
+      "title": "Subsequence Addition (Hard Version)",
+      "contestId": 1807,
+      "index": "G2",
+      "code": "1807G2",
+      "rating": 1100,
+      "url": "/problemset/problem/1807/G2"
+    },
+    {
+      "order": 17,
+      "title": "Li Hua and Pattern",
+      "contestId": 1797,
+      "index": "B",
+      "code": "1797B",
+      "rating": 1100,
+      "url": "/problemset/problem/1797/B"
+    },
+    {
+      "order": 18,
+      "title": "Teleporters (Easy Version)",
+      "contestId": 1791,
+      "index": "G1",
+      "code": "1791G1",
+      "rating": 1100,
+      "url": "/problemset/problem/1791/G1"
+    },
+    {
+      "order": 19,
+      "title": "Negatives and Positives",
+      "contestId": 1791,
+      "index": "E",
+      "code": "1791E",
+      "rating": 1100,
+      "url": "/problemset/problem/1791/E"
+    },
+    {
+      "order": 20,
+      "title": "GCD Partition",
+      "contestId": 1780,
+      "index": "B",
+      "code": "1780B",
+      "rating": 1100,
+      "url": "/problemset/problem/1780/B"
+    },
+    {
+      "order": 21,
+      "title": "Coprime",
+      "contestId": 1742,
+      "index": "D",
+      "code": "1742D",
+      "rating": 1100,
+      "url": "/problemset/problem/1742/D"
+    },
+    {
+      "order": 22,
+      "title": "Kill Demodogs",
+      "contestId": 1731,
+      "index": "B",
+      "code": "1731B",
+      "rating": 1100,
+      "url": "/problemset/problem/1731/B"
+    },
+    {
+      "order": 23,
+      "title": "Difference of GCDs",
+      "contestId": 1708,
+      "index": "B",
+      "code": "1708B",
+      "rating": 1100,
+      "url": "/problemset/problem/1708/B"
+    },
+    {
+      "order": 24,
+      "title": "AND Sorting",
+      "contestId": 1682,
+      "index": "B",
+      "code": "1682B",
+      "rating": 1100,
+      "url": "/problemset/problem/1682/B"
+    },
+    {
+      "order": 25,
+      "title": "A Perfectly Balanced String?",
+      "contestId": 1673,
+      "index": "B",
+      "code": "1673B",
+      "rating": 1100,
+      "url": "/problemset/problem/1673/B"
+    },
+    {
+      "order": 26,
+      "title": "Eating Candies",
+      "contestId": 1669,
+      "index": "F",
+      "code": "1669F",
+      "rating": 1100,
+      "url": "/problemset/problem/1669/F"
+    },
+    {
+      "order": 27,
+      "title": "Subtract Operation",
+      "contestId": 1656,
+      "index": "B",
+      "code": "1656B",
+      "rating": 1100,
+      "url": "/problemset/problem/1656/B"
+    },
+    {
+      "order": 28,
+      "title": "Fun with Even Subarrays",
+      "contestId": 1631,
+      "index": "B",
+      "code": "1631B",
+      "rating": 1100,
+      "url": "/problemset/problem/1631/B"
+    },
+    {
+      "order": 29,
+      "title": "Paint the Array",
+      "contestId": 1618,
+      "index": "C",
+      "code": "1618C",
+      "rating": 1100,
+      "url": "/problemset/problem/1618/C"
+    },
+    {
+      "order": 30,
+      "title": "Kalindrome Array",
+      "contestId": 1610,
+      "index": "B",
+      "code": "1610B",
+      "rating": 1100,
+      "url": "/problemset/problem/1610/B"
+    },
+    {
+      "order": 31,
+      "title": "Yet Another Card Deck",
+      "contestId": 1511,
+      "index": "C",
+      "code": "1511C",
+      "rating": 1100,
+      "url": "/problemset/problem/1511/C"
+    }
+  ],
+  "1200": [
+    {
+      "order": 1,
+      "title": "Three Activities",
+      "contestId": 1914,
+      "index": "D",
+      "code": "1914D",
+      "rating": 1200,
+      "url": "/problemset/problem/1914/D"
+    },
+    {
+      "order": 2,
+      "title": "Make Almost Equal With Mod",
+      "contestId": 1909,
+      "index": "B",
+      "code": "1909B",
+      "rating": 1200,
+      "url": "/problemset/problem/1909/B"
+    },
+    {
+      "order": 3,
+      "title": "Plus Minus Permutation",
+      "contestId": 1872,
+      "index": "D",
+      "code": "1872D",
+      "rating": 1200,
+      "url": "/problemset/problem/1872/D"
+    },
+    {
+      "order": 4,
+      "title": "Assembly via Minimums",
+      "contestId": 1857,
+      "index": "C",
+      "code": "1857C",
+      "rating": 1200,
+      "url": "/problemset/problem/1857/C"
+    },
+    {
+      "order": 5,
+      "title": "Vika and the Bridge",
+      "contestId": 1848,
+      "index": "B",
+      "code": "1848B",
+      "rating": 1200,
+      "url": "/problemset/problem/1848/B"
+    },
+    {
+      "order": 6,
+      "title": "Contrast Value",
+      "contestId": 1832,
+      "index": "C",
+      "code": "1832C",
+      "rating": 1200,
+      "url": "/problemset/problem/1832/C"
+    },
+    {
+      "order": 7,
+      "title": "Playing in a Casino",
+      "contestId": 1808,
+      "index": "B",
+      "code": "1808B",
+      "rating": 1200,
+      "url": "/problemset/problem/1808/B"
+    },
+    {
+      "order": 8,
+      "title": "Dora and Search",
+      "contestId": 1793,
+      "index": "C",
+      "code": "1793C",
+      "rating": 1200,
+      "url": "/problemset/problem/1793/C"
+    },
+    {
+      "order": 9,
+      "title": "Matryoshkas",
+      "contestId": 1790,
+      "index": "D",
+      "code": "1790D",
+      "rating": 1200,
+      "url": "/problemset/problem/1790/D"
+    },
+    {
+      "order": 10,
+      "title": "Scuza",
+      "contestId": 1742,
+      "index": "E",
+      "code": "1742E",
+      "rating": 1200,
+      "url": "/problemset/problem/1742/E"
+    },
+    {
+      "order": 11,
+      "title": "Removing Smallest Multiples",
+      "contestId": 1734,
+      "index": "C",
+      "code": "1734C",
+      "rating": 1200,
+      "url": "/problemset/problem/1734/C"
+    },
+    {
+      "order": 12,
+      "title": "Friends and the Restaurant",
+      "contestId": 1729,
+      "index": "D",
+      "code": "1729D",
+      "rating": 1200,
+      "url": "/problemset/problem/1729/D"
+    },
+    {
+      "order": 13,
+      "title": "Virus",
+      "contestId": 1423,
+      "index": "H",
+      "code": "1423H",
+      "rating": 2500,
+      "url": "/problemset/problem/1423/H"
+    },
+    {
+      "order": 14,
+      "title": "Mirror Grid",
+      "contestId": 1703,
+      "index": "E",
+      "code": "1703E",
+      "rating": 1200,
+      "url": "/problemset/problem/1703/E"
+    },
+    {
+      "order": 15,
+      "title": "Binary Deque",
+      "contestId": 1692,
+      "index": "E",
+      "code": "1692E",
+      "rating": 1200,
+      "url": "/problemset/problem/1692/E"
+    },
+    {
+      "order": 16,
+      "title": "Stone Age Problem",
+      "contestId": 1679,
+      "index": "B",
+      "code": "1679B",
+      "rating": 1200,
+      "url": "/problemset/problem/1679/B"
+    },
+    {
+      "order": 17,
+      "title": "Dolce Vita",
+      "contestId": 1671,
+      "index": "C",
+      "code": "1671C",
+      "rating": 1200,
+      "url": "/problemset/problem/1671/C"
+    },
+    {
+      "order": 18,
+      "title": "Differential Sorting",
+      "contestId": 1635,
+      "index": "C",
+      "code": "1635C",
+      "rating": 1200,
+      "url": "/problemset/problem/1635/C"
+    },
+    {
+      "order": 19,
+      "title": "Make Them Equal",
+      "contestId": 1154,
+      "index": "B",
+      "code": "1154B",
+      "rating": 1200,
+      "url": "/problemset/problem/1154/B"
+    },
+    {
+      "order": 20,
+      "title": "Grandma Capa Knits a Scarf",
+      "contestId": 1582,
+      "index": "C",
+      "code": "1582C",
+      "rating": 1200,
+      "url": "/problemset/problem/1582/C"
+    },
+    {
+      "order": 21,
+      "title": "Pleasant Pairs",
+      "contestId": 1541,
+      "index": "B",
+      "code": "1541B",
+      "rating": 1200,
+      "url": "/problemset/problem/1541/B"
+    },
+    {
+      "order": 22,
+      "title": "Stable Groups",
+      "contestId": 1539,
+      "index": "C",
+      "code": "1539C",
+      "rating": 1200,
+      "url": "/problemset/problem/1539/C"
+    },
+    {
+      "order": 23,
+      "title": "Prinzessin der Verurteilung",
+      "contestId": 1536,
+      "index": "B",
+      "code": "1536B",
+      "rating": 1200,
+      "url": "/problemset/problem/1536/B"
+    },
+    {
+      "order": 24,
+      "title": "Palindrome Game (easy version)",
+      "contestId": 1527,
+      "index": "B1",
+      "code": "1527B1",
+      "rating": 1200,
+      "url": "/problemset/problem/1527/B1"
+    },
+    {
+      "order": 25,
+      "title": "Same Differences",
+      "contestId": 1520,
+      "index": "D",
+      "code": "1520D",
+      "rating": 1200,
+      "url": "/problemset/problem/1520/D"
+    },
+    {
+      "order": 26,
+      "title": "AND 0, Sum Big",
+      "contestId": 1514,
+      "index": "B",
+      "code": "1514B",
+      "rating": 1200,
+      "url": "/problemset/problem/1514/B"
+    },
+    {
+      "order": 27,
+      "title": "Flip the Bits",
+      "contestId": 1504,
+      "index": "B",
+      "code": "1504B",
+      "rating": 1200,
+      "url": "/problemset/problem/1504/B"
+    },
+    {
+      "order": 28,
+      "title": "M-arrays",
+      "contestId": 1497,
+      "index": "B",
+      "code": "1497B",
+      "rating": 1200,
+      "url": "/problemset/problem/1497/B"
+    },
+    {
+      "order": 29,
+      "title": "Cat Cycle",
+      "contestId": 1487,
+      "index": "B",
+      "code": "1487B",
+      "rating": 1200,
+      "url": "/problemset/problem/1487/B"
+    },
+    {
+      "order": 30,
+      "title": "Districts Connection",
+      "contestId": 1433,
+      "index": "D",
+      "code": "1433D",
+      "rating": 1200,
+      "url": "/problemset/problem/1433/D"
+    },
+    {
+      "order": 31,
+      "title": "Rock and Lever",
+      "contestId": 1420,
+      "index": "B",
+      "code": "1420B",
+      "rating": 1200,
+      "url": "/problemset/problem/1420/B"
+    }
+  ],
+  "1300": [
+    {
+      "order": 1,
+      "title": "Divisible Pairs",
+      "contestId": 1931,
+      "index": "D",
+      "code": "1931D",
+      "rating": 1300,
+      "url": "/problemset/problem/1931/D"
+    },
+    {
+      "order": 2,
+      "title": "Find the Different Ones!",
+      "contestId": 1927,
+      "index": "D",
+      "code": "1927D",
+      "rating": 1300,
+      "url": "/problemset/problem/1927/D"
+    },
+    {
+      "order": 3,
+      "title": "Romantic Glasses",
+      "contestId": 1915,
+      "index": "E",
+      "code": "1915E",
+      "rating": 1300,
+      "url": "/problemset/problem/1915/E"
+    },
+    {
+      "order": 4,
+      "title": "Divide and Equalize",
+      "contestId": 1881,
+      "index": "D",
+      "code": "1881D",
+      "rating": 1300,
+      "url": "/problemset/problem/1881/D"
+    },
+    {
+      "order": 5,
+      "title": "Make it Alternating",
+      "contestId": 1879,
+      "index": "C",
+      "code": "1879C",
+      "rating": 1300,
+      "url": "/problemset/problem/1879/C"
+    },
+    {
+      "order": 6,
+      "title": "Strong Vertices",
+      "contestId": 1857,
+      "index": "D",
+      "code": "1857D",
+      "rating": 1300,
+      "url": "/problemset/problem/1857/D"
+    },
+    {
+      "order": 7,
+      "title": "Rudolf and Snowflakes (simple version)",
+      "contestId": 1846,
+      "index": "E1",
+      "code": "1846E1",
+      "rating": 1300,
+      "url": "/problemset/problem/1846/E1"
+    },
+    {
+      "order": 8,
+      "title": "Scoring Subsequences",
+      "contestId": 1794,
+      "index": "C",
+      "code": "1794C",
+      "rating": 1300,
+      "url": "/problemset/problem/1794/C"
+    },
+    {
+      "order": 9,
+      "title": "Gardener and the Array",
+      "contestId": 1775,
+      "index": "B",
+      "code": "1775B",
+      "rating": 1300,
+      "url": "/problemset/problem/1775/B"
+    },
+    {
+      "order": 10,
+      "title": "Yet Another Problem About Pairs Satisfying an Inequality",
+      "contestId": 1703,
+      "index": "F",
+      "code": "1703F",
+      "rating": 1300,
+      "url": "/problemset/problem/1703/F"
+    },
+    {
+      "order": 11,
+      "title": "White-Black Balanced Subtrees",
+      "contestId": 1676,
+      "index": "G",
+      "code": "1676G",
+      "rating": 1300,
+      "url": "/problemset/problem/1676/G"
+    },
+    {
+      "order": 12,
+      "title": "Maximal AND",
+      "contestId": 1669,
+      "index": "H",
+      "code": "1669H",
+      "rating": 1300,
+      "url": "/problemset/problem/1669/H"
+    },
+    {
+      "order": 13,
+      "title": "Chat Ban",
+      "contestId": 1612,
+      "index": "C",
+      "code": "1612C",
+      "rating": 1300,
+      "url": "/problemset/problem/1612/C"
+    },
+    {
+      "order": 14,
+      "title": "Array Elimination",
+      "contestId": 1601,
+      "index": "A",
+      "code": "1601A",
+      "rating": 1300,
+      "url": "/problemset/problem/1601/A"
+    },
+    {
+      "order": 15,
+      "title": "Deep Down Below",
+      "contestId": 1561,
+      "index": "C",
+      "code": "1561C",
+      "rating": 1300,
+      "url": "/problemset/problem/1561/C"
+    },
+    {
+      "order": 16,
+      "title": "Box Fitting",
+      "contestId": 1498,
+      "index": "B",
+      "code": "1498B",
+      "rating": 1300,
+      "url": "/problemset/problem/1498/B"
+    },
+    {
+      "order": 17,
+      "title": "Strange Birthday Party",
+      "contestId": 1470,
+      "index": "A",
+      "code": "1470A",
+      "rating": 1300,
+      "url": "/problemset/problem/1470/A"
+    },
+    {
+      "order": 18,
+      "title": "Move and Turn",
+      "contestId": 1459,
+      "index": "B",
+      "code": "1459B",
+      "rating": 1300,
+      "url": "/problemset/problem/1459/B"
+    },
+    {
+      "order": 19,
+      "title": "Omkar and Last Class of Math",
+      "contestId": 1372,
+      "index": "B",
+      "code": "1372B",
+      "rating": 1300,
+      "url": "/problemset/problem/1372/B"
+    },
+    {
+      "order": 20,
+      "title": "Shuffle",
+      "contestId": 1366,
+      "index": "B",
+      "code": "1366B",
+      "rating": 1300,
+      "url": "/problemset/problem/1366/B"
+    },
+    {
+      "order": 21,
+      "title": "Most socially-distanced subsequence",
+      "contestId": 1364,
+      "index": "B",
+      "code": "1364B",
+      "rating": 1300,
+      "url": "/problemset/problem/1364/B"
+    },
+    {
+      "order": 22,
+      "title": "Buying Shovels",
+      "contestId": 1360,
+      "index": "D",
+      "code": "1360D",
+      "rating": 1300,
+      "url": "/problemset/problem/1360/D"
+    },
+    {
+      "order": 23,
+      "title": "Product of Three Numbers",
+      "contestId": 1294,
+      "index": "C",
+      "code": "1294C",
+      "rating": 1300,
+      "url": "/problemset/problem/1294/C"
+    },
+    {
+      "order": 24,
+      "title": "Just Eat It!",
+      "contestId": 1285,
+      "index": "B",
+      "code": "1285B",
+      "rating": 1300,
+      "url": "/problemset/problem/1285/B"
+    },
+    {
+      "order": 25,
+      "title": "Balanced Tunnel",
+      "contestId": 1237,
+      "index": "B",
+      "code": "1237B",
+      "rating": 1300,
+      "url": "/problemset/problem/1237/B"
+    },
+    {
+      "order": 26,
+      "title": "WOW Factor",
+      "contestId": 1178,
+      "index": "B",
+      "code": "1178B",
+      "rating": 1300,
+      "url": "/problemset/problem/1178/B"
+    },
+    {
+      "order": 27,
+      "title": "Alyona and a Narrow Fridge",
+      "contestId": 1119,
+      "index": "B",
+      "code": "1119B",
+      "rating": 1300,
+      "url": "/problemset/problem/1119/B"
+    },
+    {
+      "order": 28,
+      "title": "Good Array",
+      "contestId": 1077,
+      "index": "C",
+      "code": "1077C",
+      "rating": 1300,
+      "url": "/problemset/problem/1077/C"
+    },
+    {
+      "order": 29,
+      "title": "Mahmoud and Ehab and the bipartiteness",
+      "contestId": 862,
+      "index": "B",
+      "code": "862B",
+      "rating": 1300,
+      "url": "/problemset/problem/862/B"
+    },
+    {
+      "order": 30,
+      "title": "Average Sleep Time",
+      "contestId": 808,
+      "index": "B",
+      "code": "808B",
+      "rating": 1300,
+      "url": "/problemset/problem/808/B"
+    },
+    {
+      "order": 31,
+      "title": "Simple Strings",
+      "contestId": 665,
+      "index": "C",
+      "code": "665C",
+      "rating": 1300,
+      "url": "/problemset/problem/665/C"
+    }
+  ],
+  "1400": [
+    {
+      "order": 1,
+      "title": "Anna and the Valentine's Day Gift",
+      "contestId": 1931,
+      "index": "E",
+      "code": "1931E",
+      "rating": 1400,
+      "url": "/problemset/problem/1931/E"
+    },
+    {
+      "order": 2,
+      "title": "Grouping Increases",
+      "contestId": 1919,
+      "index": "C",
+      "code": "1919C",
+      "rating": 1400,
+      "url": "/problemset/problem/1919/C"
+    },
+    {
+      "order": 3,
+      "title": "Jumping Through Segments",
+      "contestId": 1907,
+      "index": "D",
+      "code": "1907D",
+      "rating": 1400,
+      "url": "/problemset/problem/1907/D"
+    },
+    {
+      "order": 4,
+      "title": "Array Game",
+      "contestId": 1076,
+      "index": "G",
+      "code": "1076G",
+      "rating": 3000,
+      "url": "/problemset/problem/1076/G"
+    },
+    {
+      "order": 5,
+      "title": "Dances (Easy version)",
+      "contestId": 1883,
+      "index": "G1",
+      "code": "1883G1",
+      "rating": 1400,
+      "url": "/problemset/problem/1883/G1"
+    },
+    {
+      "order": 6,
+      "title": "Iva & Pav",
+      "contestId": 1878,
+      "index": "E",
+      "code": "1878E",
+      "rating": 1400,
+      "url": "/problemset/problem/1878/E"
+    },
+    {
+      "order": 7,
+      "title": "Bracket Coloring",
+      "contestId": 1837,
+      "index": "D",
+      "code": "1837D",
+      "rating": 1400,
+      "url": "/problemset/problem/1837/D"
+    },
+    {
+      "order": 8,
+      "title": "Copil Copac Draws Trees",
+      "contestId": 1830,
+      "index": "A",
+      "code": "1830A",
+      "rating": 1400,
+      "url": "/problemset/problem/1830/A"
+    },
+    {
+      "order": 9,
+      "title": "Hossam and Friends",
+      "contestId": 1771,
+      "index": "B",
+      "code": "1771B",
+      "rating": 1400,
+      "url": "/problemset/problem/1771/B"
+    },
+    {
+      "order": 10,
+      "title": "Make It Round",
+      "contestId": 1759,
+      "index": "D",
+      "code": "1759D",
+      "rating": 1400,
+      "url": "/problemset/problem/1759/D"
+    },
+    {
+      "order": 11,
+      "title": "Add Modulo 10",
+      "contestId": 1714,
+      "index": "E",
+      "code": "1714E",
+      "rating": 1400,
+      "url": "/problemset/problem/1714/E"
+    },
+    {
+      "order": 12,
+      "title": "Schedule Management",
+      "contestId": 1701,
+      "index": "C",
+      "code": "1701C",
+      "rating": 1400,
+      "url": "/problemset/problem/1701/C"
+    },
+    {
+      "order": 13,
+      "title": "2^Sort",
+      "contestId": 1692,
+      "index": "G",
+      "code": "1692G",
+      "rating": 1400,
+      "url": "/problemset/problem/1692/G"
+    },
+    {
+      "order": 14,
+      "title": "Weird Sum",
+      "contestId": 1648,
+      "index": "A",
+      "code": "1648A",
+      "rating": 1400,
+      "url": "/problemset/problem/1648/A"
+    },
+    {
+      "order": 15,
+      "title": "Fortune Telling",
+      "contestId": 59,
+      "index": "B",
+      "code": "59B",
+      "rating": 1200,
+      "url": "/problemset/problem/59/B"
+    },
+    {
+      "order": 16,
+      "title": "Arranging The Sheep",
+      "contestId": 1520,
+      "index": "E",
+      "code": "1520E",
+      "rating": 1400,
+      "url": "/problemset/problem/1520/E"
+    },
+    {
+      "order": 17,
+      "title": "Berland Regional",
+      "contestId": 1519,
+      "index": "C",
+      "code": "1519C",
+      "rating": 1400,
+      "url": "/problemset/problem/1519/C"
+    },
+    {
+      "order": 18,
+      "title": "AND Sequences",
+      "contestId": 1513,
+      "index": "B",
+      "code": "1513B",
+      "rating": 1400,
+      "url": "/problemset/problem/1513/B"
+    },
+    {
+      "order": 19,
+      "title": "Ball in Berland",
+      "contestId": 1475,
+      "index": "C",
+      "code": "1475C",
+      "rating": 1400,
+      "url": "/problemset/problem/1475/C"
+    },
+    {
+      "order": 20,
+      "title": "Zero Remainder Array",
+      "contestId": 1374,
+      "index": "D",
+      "code": "1374D",
+      "rating": 1400,
+      "url": "/problemset/problem/1374/D"
+    },
+    {
+      "order": 21,
+      "title": "Johnny and Another Rating Drop",
+      "contestId": 1362,
+      "index": "C",
+      "code": "1362C",
+      "rating": 1400,
+      "url": "/problemset/problem/1362/C"
+    },
+    {
+      "order": 22,
+      "title": "Orac and Models",
+      "contestId": 1350,
+      "index": "B",
+      "code": "1350B",
+      "rating": 1400,
+      "url": "/problemset/problem/1350/B"
+    },
+    {
+      "order": 23,
+      "title": "Journey Planning",
+      "contestId": 1320,
+      "index": "A",
+      "code": "1320A",
+      "rating": 1400,
+      "url": "/problemset/problem/1320/A"
+    },
+    {
+      "order": 24,
+      "title": "The Number of Products",
+      "contestId": 1215,
+      "index": "B",
+      "code": "1215B",
+      "rating": 1400,
+      "url": "/problemset/problem/1215/B"
+    },
+    {
+      "order": 25,
+      "title": "Basketball Exercise",
+      "contestId": 1195,
+      "index": "C",
+      "code": "1195C",
+      "rating": 1400,
+      "url": "/problemset/problem/1195/C"
+    },
+    {
+      "order": 26,
+      "title": "Candy Box (easy version)",
+      "contestId": 1183,
+      "index": "D",
+      "code": "1183D",
+      "rating": 1400,
+      "url": "/problemset/problem/1183/D"
+    },
+    {
+      "order": 27,
+      "title": "News Distribution",
+      "contestId": 1167,
+      "index": "C",
+      "code": "1167C",
+      "rating": 1400,
+      "url": "/problemset/problem/1167/C"
+    },
+    {
+      "order": 28,
+      "title": "Lost Numbers",
+      "contestId": 1167,
+      "index": "B",
+      "code": "1167B",
+      "rating": 1400,
+      "url": "/problemset/problem/1167/B"
+    },
+    {
+      "order": 29,
+      "title": "Queen",
+      "contestId": 1143,
+      "index": "C",
+      "code": "1143C",
+      "rating": 1400,
+      "url": "/problemset/problem/1143/C"
+    },
+    {
+      "order": 30,
+      "title": "Tape",
+      "contestId": 1110,
+      "index": "B",
+      "code": "1110B",
+      "rating": 1400,
+      "url": "/problemset/problem/1110/B"
+    },
+    {
+      "order": 31,
+      "title": "Mashmokh and ACM",
+      "contestId": 414,
+      "index": "B",
+      "code": "414B",
+      "rating": 1400,
+      "url": "/problemset/problem/414/B"
+    }
+  ],
+  "1500": [
+    {
+      "order": 1,
+      "title": "Greetings",
+      "contestId": 1915,
+      "index": "F",
+      "code": "1915F",
+      "rating": 1500,
+      "url": "/problemset/problem/1915/F"
+    },
+    {
+      "order": 2,
+      "title": "Smilo and Monsters",
+      "contestId": 1891,
+      "index": "C",
+      "code": "1891C",
+      "rating": 1500,
+      "url": "/problemset/problem/1891/C"
+    },
+    {
+      "order": 3,
+      "title": "Block Sequence",
+      "contestId": 1881,
+      "index": "E",
+      "code": "1881E",
+      "rating": 1500,
+      "url": "/problemset/problem/1881/E"
+    },
+    {
+      "order": 4,
+      "title": "Data Structures Fan",
+      "contestId": 1872,
+      "index": "E",
+      "code": "1872E",
+      "rating": 1500,
+      "url": "/problemset/problem/1872/E"
+    },
+    {
+      "order": 5,
+      "title": "Tea Tasting",
+      "contestId": 1795,
+      "index": "C",
+      "code": "1795C",
+      "rating": 1500,
+      "url": "/problemset/problem/1795/C"
+    },
+    {
+      "order": 6,
+      "title": "Controllers",
+      "contestId": 1776,
+      "index": "L",
+      "code": "1776L",
+      "rating": 1500,
+      "url": "/problemset/problem/1776/L"
+    },
+    {
+      "order": 7,
+      "title": "Palindrome Basis",
+      "contestId": 1673,
+      "index": "C",
+      "code": "1673C",
+      "rating": 1500,
+      "url": "/problemset/problem/1673/C"
+    },
+    {
+      "order": 8,
+      "title": "Line Empire",
+      "contestId": 1659,
+      "index": "C",
+      "code": "1659C",
+      "rating": 1500,
+      "url": "/problemset/problem/1659/C"
+    },
+    {
+      "order": 9,
+      "title": "Factorials and Powers of Two",
+      "contestId": 1646,
+      "index": "C",
+      "code": "1646C",
+      "rating": 1500,
+      "url": "/problemset/problem/1646/C"
+    },
+    {
+      "order": 10,
+      "title": "AGAGA XOOORRR",
+      "contestId": 1516,
+      "index": "B",
+      "code": "1516B",
+      "rating": 1500,
+      "url": "/problemset/problem/1516/B"
+    },
+    {
+      "order": 11,
+      "title": "Eastern Exhibition",
+      "contestId": 1486,
+      "index": "B",
+      "code": "1486B",
+      "rating": 1500,
+      "url": "/problemset/problem/1486/B"
+    },
+    {
+      "order": 12,
+      "title": "13th Labour of Heracles",
+      "contestId": 1466,
+      "index": "D",
+      "code": "1466D",
+      "rating": 1500,
+      "url": "/problemset/problem/1466/D"
+    },
+    {
+      "order": 13,
+      "title": "Mortal Kombat Tower",
+      "contestId": 1418,
+      "index": "C",
+      "code": "1418C",
+      "rating": 1500,
+      "url": "/problemset/problem/1418/C"
+    },
+    {
+      "order": 14,
+      "title": "k-Amazing Numbers",
+      "contestId": 1416,
+      "index": "A",
+      "code": "1416A",
+      "rating": 1500,
+      "url": "/problemset/problem/1416/A"
+    },
+    {
+      "order": 15,
+      "title": "Balanced Bitstring",
+      "contestId": 1404,
+      "index": "A",
+      "code": "1404A",
+      "rating": 1500,
+      "url": "/problemset/problem/1404/A"
+    },
+    {
+      "order": 16,
+      "title": "Powered Addition",
+      "contestId": 1338,
+      "index": "A",
+      "code": "1338A",
+      "rating": 1500,
+      "url": "/problemset/problem/1338/A"
+    },
+    {
+      "order": 17,
+      "title": "K-Complete Word",
+      "contestId": 1332,
+      "index": "C",
+      "code": "1332C",
+      "rating": 1500,
+      "url": "/problemset/problem/1332/C"
+    },
+    {
+      "order": 18,
+      "title": "Ehab and Path-etic MEXs",
+      "contestId": 1325,
+      "index": "C",
+      "code": "1325C",
+      "rating": 1500,
+      "url": "/problemset/problem/1325/C"
+    },
+    {
+      "order": 19,
+      "title": "Count Subrectangles",
+      "contestId": 1323,
+      "index": "B",
+      "code": "1323B",
+      "rating": 1500,
+      "url": "/problemset/problem/1323/B"
+    },
+    {
+      "order": 20,
+      "title": "Zero Array",
+      "contestId": 1201,
+      "index": "B",
+      "code": "1201B",
+      "rating": 1500,
+      "url": "/problemset/problem/1201/B"
+    },
+    {
+      "order": 21,
+      "title": "Edgy Trees",
+      "contestId": 1139,
+      "index": "C",
+      "code": "1139C",
+      "rating": 1500,
+      "url": "/problemset/problem/1139/C"
+    },
+    {
+      "order": 22,
+      "title": "Zero Quantity Maximization",
+      "contestId": 1133,
+      "index": "D",
+      "code": "1133D",
+      "rating": 1500,
+      "url": "/problemset/problem/1133/D"
+    },
+    {
+      "order": 23,
+      "title": "Lunar New Year and a Wander",
+      "contestId": 1106,
+      "index": "D",
+      "code": "1106D",
+      "rating": 1500,
+      "url": "/problemset/problem/1106/D"
+    },
+    {
+      "order": 24,
+      "title": "Division and Union",
+      "contestId": 1101,
+      "index": "C",
+      "code": "1101C",
+      "rating": 1500,
+      "url": "/problemset/problem/1101/C"
+    },
+    {
+      "order": 25,
+      "title": "The Fair Nut and String",
+      "contestId": 1084,
+      "index": "C",
+      "code": "1084C",
+      "rating": 1500,
+      "url": "/problemset/problem/1084/C"
+    },
+    {
+      "order": 26,
+      "title": "Cut 'em all!",
+      "contestId": 982,
+      "index": "C",
+      "code": "982C",
+      "rating": 1500,
+      "url": "/problemset/problem/982/C"
+    },
+    {
+      "order": 27,
+      "title": "Nested Segments",
+      "contestId": 652,
+      "index": "D",
+      "code": "652D",
+      "rating": 1800,
+      "url": "/problemset/problem/652/D"
+    },
+    {
+      "order": 28,
+      "title": "Minimize the error",
+      "contestId": 960,
+      "index": "B",
+      "code": "960B",
+      "rating": 1500,
+      "url": "/problemset/problem/960/B"
+    },
+    {
+      "order": 29,
+      "title": "Pride",
+      "contestId": 891,
+      "index": "A",
+      "code": "891A",
+      "rating": 1500,
+      "url": "/problemset/problem/891/A"
+    },
+    {
+      "order": 30,
+      "title": "Two TVs",
+      "contestId": 845,
+      "index": "C",
+      "code": "845C",
+      "rating": 1500,
+      "url": "/problemset/problem/845/C"
+    },
+    {
+      "order": 31,
+      "title": "Little Girl and Maximum Sum",
+      "contestId": 276,
+      "index": "C",
+      "code": "276C",
+      "rating": 1500,
+      "url": "/problemset/problem/276/C"
+    }
+  ],
+  "1600": [
+    {
+      "order": 1,
+      "title": "Partitioning the Array",
+      "contestId": 1920,
+      "index": "C",
+      "code": "1920C",
+      "rating": 1600,
+      "url": "/problemset/problem/1920/C"
+    },
+    {
+      "order": 2,
+      "title": "Good Triples",
+      "contestId": 1907,
+      "index": "E",
+      "code": "1907E",
+      "rating": 1600,
+      "url": "/problemset/problem/1907/E"
+    },
+    {
+      "order": 3,
+      "title": "Decreasing String",
+      "contestId": 1886,
+      "index": "C",
+      "code": "1886C",
+      "rating": 1600,
+      "url": "/problemset/problem/1886/C"
+    },
+    {
+      "order": 4,
+      "title": "To Become Max",
+      "contestId": 1856,
+      "index": "C",
+      "code": "1856C",
+      "rating": 1600,
+      "url": "/problemset/problem/1856/C"
+    },
+    {
+      "order": 5,
+      "title": "Tracking Segments",
+      "contestId": 1843,
+      "index": "E",
+      "code": "1843E",
+      "rating": 1600,
+      "url": "/problemset/problem/1843/E"
+    },
+    {
+      "order": 6,
+      "title": "Round Dance",
+      "contestId": 1833,
+      "index": "E",
+      "code": "1833E",
+      "rating": 1600,
+      "url": "/problemset/problem/1833/E"
+    },
+    {
+      "order": 7,
+      "title": "Hits Different",
+      "contestId": 1829,
+      "index": "G",
+      "code": "1829G",
+      "rating": 1600,
+      "url": "/problemset/problem/1829/G"
+    },
+    {
+      "order": 8,
+      "title": "Shocking Arrangement",
+      "contestId": 1798,
+      "index": "D",
+      "code": "1798D",
+      "rating": 1600,
+      "url": "/problemset/problem/1798/D"
+    },
+    {
+      "order": 9,
+      "title": "Triangle Coloring",
+      "contestId": 1795,
+      "index": "D",
+      "code": "1795D",
+      "rating": 1600,
+      "url": "/problemset/problem/1795/D"
+    },
+    {
+      "order": 10,
+      "title": "Equal Frequencies",
+      "contestId": 1781,
+      "index": "C",
+      "code": "1781C",
+      "rating": 1600,
+      "url": "/problemset/problem/1781/C"
+    },
+    {
+      "order": 11,
+      "title": "Flexible String",
+      "contestId": 1778,
+      "index": "C",
+      "code": "1778C",
+      "rating": 1600,
+      "url": "/problemset/problem/1778/C"
+    },
+    {
+      "order": 12,
+      "title": "Interesting Sequence",
+      "contestId": 40,
+      "index": "D",
+      "code": "40D",
+      "rating": 2600,
+      "url": "/problemset/problem/40/D"
+    },
+    {
+      "order": 13,
+      "title": "Sending a Sequence Over the Network",
+      "contestId": 1741,
+      "index": "E",
+      "code": "1741E",
+      "rating": 1600,
+      "url": "/problemset/problem/1741/E"
+    },
+    {
+      "order": 14,
+      "title": "Meeting on the Line",
+      "contestId": 1730,
+      "index": "B",
+      "code": "1730B",
+      "rating": 1600,
+      "url": "/problemset/problem/1730/B"
+    },
+    {
+      "order": 15,
+      "title": "Split Into Two Sets",
+      "contestId": 1702,
+      "index": "E",
+      "code": "1702E",
+      "rating": 1600,
+      "url": "/problemset/problem/1702/E"
+    },
+    {
+      "order": 16,
+      "title": "Fixed Point Guessing",
+      "contestId": 1698,
+      "index": "D",
+      "code": "1698D",
+      "rating": 1600,
+      "url": "/problemset/problem/1698/D"
+    },
+    {
+      "order": 17,
+      "title": "Maximum Product Strikes Back",
+      "contestId": 1660,
+      "index": "D",
+      "code": "1660D",
+      "rating": 1600,
+      "url": "/problemset/problem/1660/D"
+    },
+    {
+      "order": 18,
+      "title": "Make Them Equal",
+      "contestId": 1154,
+      "index": "B",
+      "code": "1154B",
+      "rating": 1200,
+      "url": "/problemset/problem/1154/B"
+    },
+    {
+      "order": 19,
+      "title": "Keshi Is Throwing a Party",
+      "contestId": 1610,
+      "index": "C",
+      "code": "1610C",
+      "rating": 1600,
+      "url": "/problemset/problem/1610/C"
+    },
+    {
+      "order": 20,
+      "title": "Say No to Palindromes",
+      "contestId": 1555,
+      "index": "D",
+      "code": "1555D",
+      "rating": 1600,
+      "url": "/problemset/problem/1555/D"
+    },
+    {
+      "order": 21,
+      "title": "Erase and Extend (Easy Version)",
+      "contestId": 1537,
+      "index": "E1",
+      "code": "1537E1",
+      "rating": 1600,
+      "url": "/problemset/problem/1537/E1"
+    },
+    {
+      "order": 22,
+      "title": "Parsa's Humongous Tree",
+      "contestId": 1528,
+      "index": "A",
+      "code": "1528A",
+      "rating": 1600,
+      "url": "/problemset/problem/1528/A"
+    },
+    {
+      "order": 23,
+      "title": "Planar Reflections",
+      "contestId": 1498,
+      "index": "C",
+      "code": "1498C",
+      "rating": 1600,
+      "url": "/problemset/problem/1498/C"
+    },
+    {
+      "order": 24,
+      "title": "Advertising Agency",
+      "contestId": 1475,
+      "index": "E",
+      "code": "1475E",
+      "rating": 1600,
+      "url": "/problemset/problem/1475/E"
+    },
+    {
+      "order": 25,
+      "title": "Row GCD",
+      "contestId": 1458,
+      "index": "A",
+      "code": "1458A",
+      "rating": 1600,
+      "url": "/problemset/problem/1458/A"
+    },
+    {
+      "order": 26,
+      "title": "Chocolate Bunny",
+      "contestId": 1407,
+      "index": "C",
+      "code": "1407C",
+      "rating": 1600,
+      "url": "/problemset/problem/1407/C"
+    },
+    {
+      "order": 27,
+      "title": "Good Subarrays",
+      "contestId": 1398,
+      "index": "C",
+      "code": "1398C",
+      "rating": 1600,
+      "url": "/problemset/problem/1398/C"
+    },
+    {
+      "order": 28,
+      "title": "Array Walk",
+      "contestId": 1389,
+      "index": "B",
+      "code": "1389B",
+      "rating": 1600,
+      "url": "/problemset/problem/1389/B"
+    },
+    {
+      "order": 29,
+      "title": "Orac and LCM",
+      "contestId": 1349,
+      "index": "A",
+      "code": "1349A",
+      "rating": 1600,
+      "url": "/problemset/problem/1349/A"
+    },
+    {
+      "order": 30,
+      "title": "Linova and Kingdom",
+      "contestId": 1336,
+      "index": "A",
+      "code": "1336A",
+      "rating": 1600,
+      "url": "/problemset/problem/1336/A"
+    },
+    {
+      "order": 31,
+      "title": "Kuroni and Impossible Calculation",
+      "contestId": 1305,
+      "index": "C",
+      "code": "1305C",
+      "rating": 1600,
+      "url": "/problemset/problem/1305/C"
+    }
+  ]
+}
